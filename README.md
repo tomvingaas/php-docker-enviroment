@@ -7,29 +7,23 @@ php enviroment with containers
 last ned Docker CE 
 
 ### Prerequisites
-
-Docker CE
-
-```
-Give examples
-```
+* [Docker CE](https://hub.docker.com/search?q=&type=edition&offering=community&sort=updated_at&order=desc) - Docker Community Edition
 
 ### Installing
 
-clone down the repo, 
-start a terminal inside the directory'
-change some of the settings in the docker-compose.yml file to suit your needs
+clone down the repo
+```
+git clone https://github.com/tomvingaas/php-docker-enviroment.git
+```
+
+start a terminal and navigate you to the repo you cloned down
+```
+$ cd path/to/repo/
+```
+
+
 run the command docker-compose up -d
+```
+$ docker-compose up -d
+```
 and start developing
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
