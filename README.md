@@ -4,8 +4,7 @@ php enviroment with containers
 
 ## Getting Started
 
-last ned Docker CE 
-
+install Docker CE, download or clone this repo, run docker-compose.yml file and start developing!
 ### Prerequisites
 * [Docker CE](https://hub.docker.com/search?q=&type=edition&offering=community&sort=updated_at&order=desc) - Docker Community Edition
 
